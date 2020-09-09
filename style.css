@@ -3,30 +3,38 @@ body {
     background-image: url("../images/greyfloral.png");
 }
 
-.navbar {
+.header {
     background-color: #ffffff;
-    margin-bottom: 20px;
-    padding: 0px;
-    border-bottom: 1.5px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
+    overflow: hidden; 
 }
 
-h2{
-    margin: 0;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
-    font-weight: bold;
-
+h1 {
+  float: left;
+  margin-left: 7.5%;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #ffffff;
+  background-color: #4aaaa5;
+  padding: 20px;
+  margin-bottom: 0px;
+  position: relative;
 }
 
-h2#head{
-    padding: 10px;
+.header-right {
+  float: right;
+  margin-top: 3%;
+  margin-right: 3%;
+}
+
+.header a {
     float: left;
-    display: inline-block;
-    background-color: #4aaaa5;
-    color: #ffffff;
-}
-
-h2.title{
-    color: #4aaaa5;
+    color:#777777;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
 }
 
 .container{
