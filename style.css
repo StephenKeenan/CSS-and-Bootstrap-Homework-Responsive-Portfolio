@@ -1,6 +1,7 @@
 body { 
     margin: 0;
-    background-image: url(https://cdnpt01.viewbug.com/media/mediafiles/2012/10/19/2299385_large.jpg);
+    background-image: url(Assets/Images/Beach.jpg);
+    background-size: cover
 }
 
 .header {
