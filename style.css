@@ -86,3 +86,7 @@ button {
     text-align: center;
     align-content: center;
   }
+
+  .card {
+      margin-bottom: 2rem
+  }
