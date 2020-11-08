@@ -11,7 +11,7 @@ Responsive design ensures that web applications render well on a variety of devi
 
 ## Visual Representation
 
-[Portfolio]()
+![Portfolio](https://github.com/StephenKeenan/Stephen-Keenan-Portfolio/blob/master/Assets/Images/Portfolio.JPG)
 
 
 - - -
